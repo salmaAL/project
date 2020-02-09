@@ -10,7 +10,9 @@
 <h3>prerequisites</h3>
 
 <h6>you have installed git </h6>
+<a href="https://git-scm.com/downloads">Download</a> 
 <h6>you have installed Sourcetree</h6>
+<a href="https://www.sourcetreeapp.com/download-archives">Download</a>
 <h6>you have GitHub account </h6>
 
 
