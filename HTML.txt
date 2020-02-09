@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Git +SourceTree</title>
+</head>
+<body>
+
+<p>In this course, we will learn how to manage projects using a program SourceTree to execute git commands</p>
+
+<h3>prerequisites</h3>
+
+<h6>you have installed git </h6>
+<h6>you have installed Sourcetree</h6>
+<h6>you have GitHub account </h6>
+
+
+</body>
+</html>
