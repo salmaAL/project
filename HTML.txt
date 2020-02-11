@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,3 +19,5 @@
 
 </body>
 </html>
+=======
+>>>>>>> parent of d964056... added the content of the file
