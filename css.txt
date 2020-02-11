@@ -2,13 +2,7 @@ body {
   background-color: lightblue;
 }
 
-h234 {
-  color: white;
-  text-align: center;
-}
-
-
-h3 {
+h2 {
   color: white;
   text-align: center;
 }
